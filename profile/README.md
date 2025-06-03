@@ -2,16 +2,15 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Game_Software_Development_2_Team_Project-darkblue?style=for-the-badge)
-
-</div>
-
-![Cover](images/cover.png)
-
-<div align="center">
-
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![](https://img.shields.io/badge/Game_Software_Development_2_Team_Project-darkblue?style=for-the-badge)
+
+[<img src="images/cover.png" width="100%" height="auto">]()
+
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/NEC9mGGMYnY)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://picturesque-screw-9a2.notion.site/20409f1ba81a801db59fe2e6143d549d?source=copy_link)
 
 </div>
 
