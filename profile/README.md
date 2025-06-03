@@ -37,12 +37,12 @@
 
 ## 🎮 포트리스 팀원 소개
 
-| Profile | Name | Major | Role | Development |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-| <img src="https://github.com/ooohyunwooo.png" width="60" height="60"> | 조현우 | 휴먼지능정보공학전공 | 팀장 | 보스 몬스터 **청룡** 개발 |
-| <img src="https://github.com/JoJunHwan.png" width="60" height="60"> | 조준환 | 게임전공 | 게임 스토리 기획 | 주인공 **진헌** 개발 |
-| <img src="https://github.com/kmw99.png" width="60" height="60"> | 김민우 | 컴퓨터과학전공 | 프로젝트 통합 관리자 | 스테이지 & UX/UI 개발 |
-| <img src="https://github.com/???.png" width="60" height="60"> | 강민우 | 휴먼지능정보공학전공 | 게임 컨셉 디자인 | 보스 몬스터 **백호** 개발 |
+| Profile | Name | Major | Role | Development | GitHub |
+|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| <img src="https://github.com/ooohyunwooo.png" width="60" height="60"> | 조현우 | 휴먼AI공학전공 | 팀장 | 보스 몬스터 **청룡** 개발 | [@ooohyunwooo](https://github.com/ooohyunwooo) |
+| <img src="https://github.com/JoJunHwan.png" width="60" height="60"> | 조준환 | 게임전공 | 게임 스토리 작가 | 주인공 **진헌** 개발 | [@JoJunHwan](https://github.com/JoJunHwan) |
+| <img src="https://github.com/kmw99.png" width="60" height="60"> | 김민우 | 컴퓨터과학전공 | 프로젝트 통합 관리자 | 맵 & UI/UX 개발 | [@kmw99](https://github.com/kmw99) |
+| <img src="https://github.com/???.png" width="60" height="60"> | 강민우 | 휴먼AI공학전공 | 게임 컨셉 디자이너 | 보스 몬스터 **백호** 개발 | [@???](https://github.com/???) |
 
 <br>
 
@@ -53,3 +53,9 @@
 <br>
 
 <br>
+
+<div align="center">
+
+![](https://img.shields.io/badge/2025-게임_소프트웨어_개발_2_팀_프로젝트-darkblue?style=for-the-badge)
+
+</div>
