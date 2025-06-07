@@ -27,27 +27,24 @@
 ## 📸 스크린샷 | Screenshots
 
 <div align="center">
-<table>
-  <tr>
-    <th colspan="2">스테이지 1 - 장산범</th>
-  </tr>
-  <tr>
-    <td><img src="images/stage1Tiger.gif"/></td>
-    <td><img src="images/stage1Clone.gif"/></td>
-  </tr>
-</table>
+
+| 스테이지 1 - _장산범_ |
+|:------:|
+| <img src="images/stage1Tiger.gif" width="100%" height="auto"/> |
+| 돌진 & 공격 |
+| <img src="images/stage1Clone.gif" width="100%" height="auto"/> |
+| 분신 소환 |
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/O0mS1DqJELk?si=j2CJLCFqCKM8ar9y)
 
-<table>
-  <tr>
-    <th colspan="2">스테이지 2 - 청룡</th>
-  </tr>
-  <tr>
-    <td><img src="images/stage2Dragon.gif"/></td>
-    <td><img src="images/stage2Lightning.gif"/></td>
-  </tr>
-</table>
+<br>
+
+| 스테이지 2 - _청룡_ |
+|:------:|
+| <img src="images/stage2Dragon.gif"/> |
+| 화염구 & 돌진 |
+| <img src="images/stage2Lightning.gif"/> |
+| 번개 소환 |
 
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/A_qTdIbB1ro?si=4t7LdJWvnvW3460o)
 
